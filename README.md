@@ -10,6 +10,6 @@
 - MySQL
 - FastAPI
 - Postman (for testing)
-- 
+
 ## Run in terminal
-uvicorn app:app --reload
+- uvicorn app:app --reload
